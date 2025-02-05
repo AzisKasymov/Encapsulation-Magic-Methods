@@ -62,3 +62,7 @@ class PersonalAccount:
         self.deposit(amount)
         return self
 
+    def __sub__(self, amount: float):
+        self.withdraw(amount)
+        return self
+
