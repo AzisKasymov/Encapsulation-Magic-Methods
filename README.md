@@ -1,0 +1,2 @@
+The Amount class is responsible for handling financial transactions, storing values, and performing operations like addition, subtraction, and comparison of amounts.
+The PersonalAccount class manages user accounts. It can set and track the current time of transactions, store user history for future reference, and interact with other classes, allowing for extended functionality. It defines users, maintains account details, and provides methods to check the balance, record transactions, and retrieve financial history.
