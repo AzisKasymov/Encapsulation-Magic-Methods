@@ -4,3 +4,4 @@ class user:
         self.email = email
         self.books = {}
         n n
+        selflf
